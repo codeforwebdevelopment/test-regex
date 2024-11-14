@@ -23,7 +23,7 @@ I'm Sam, and I'm passionate about product engineering and web development. I cre
 Regex test 
 
 ### useful commands to run project
-- npm run start
+- node regex/test-regex-basics.js
 
 ## Subscribe and Stay Updated!
 

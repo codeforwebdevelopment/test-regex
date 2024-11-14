@@ -67,4 +67,3 @@ const re1 = new RegExp(/^[a-zA-Z0-9]+$/iu);
 
 // console.log("Hello world!".replace(/world/, 'dog'))  // Hello dog! // regex to replace any text –
 
-// node regex/test-regex-basics.js
