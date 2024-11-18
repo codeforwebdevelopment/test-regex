@@ -1,4 +1,4 @@
-Following are various symbols that we used to make expressions-
+# Following are various symbols that we used to make expressions-
 
 Boundaries- \b, \B
 
@@ -25,13 +25,13 @@ The quantifiers ( * +." ?{}) are greedy operators, so they extend the match as f
 
 + -> abc+ matches a string that has ab followed by one or more c.
 
-* Repeat the end operator 0 or more times.
++ Repeat the end operator 0 or more times.
 
 ? -> abc? matches a string that has ab followed by zero or one c. means at most one c is present.
 
 A{N} -> It matches a string that contains a sequence of N A’s.
 
-Anchors — 
+Anchors —
 
 We can use ^ symbol in various ways. It is also known as negates or NOT operator.
 
@@ -135,7 +135,7 @@ d(?!r) matches a d only if is not followed by r, but r will not be part of the o
 
 (?=1) items
 
-* /^\d*$/ Match 0 or more (>= 0) items
++ /^\d*$/ Match 0 or more (>= 0) items
 
 {n} /^\d{3}$/ Match exactly n items
 
